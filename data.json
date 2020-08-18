@@ -70,41 +70,6 @@
       "categorie":"Magic | Shounen | Adventure",
       "studio":"Studio Pierrot",
       "img":"https://miro.medium.com/max/1400/1*MeE_NkhQGCgC3dHK99LLXg.jpeg"
-   },
-   {
-      "name":"Sword Art Online",
-      "description":"In the year 2022, virtual reality has progressed by leaps and bounds, and a massive online role-playing game called Sword Art Online (SAO) is launched. With the aid of NerveGear technology, players can control their avatars within the game using nothing but their own thoughts.",
-      "Rating":"7.66",
-      "episode":25,
-      "categorie":"Drama | Adventure",
-      "studio":"A-1 Pictures",
-      "img":"https://myanimelist.cdn-dena.com/images/anime/11/39717.jpg"
-   },
-   {
-      "name":"Nanatsu no Taizai",
-      "description":"It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-      "Rating":"8.30",
-      "episode":24,
-      "categorie":"Animation | Drama | Adventure",
-      "studio":"A-1 Pictures",
-      "img":"https://myanimelist.cdn-dena.com/images/anime/8/65409.jpg"
-   },
-   {
-      "name":"Kiseijuu: Sei no Kakuritsu",
-      "description":"It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-      "Rating":"8.53",
-      "episode":24,
-      "categorie":"Animation | Drama | Adventure",
-      "studio":"Madhouse",
-      "img":"https://myanimelist.cdn-dena.com/images/anime/3/73178.jpg"
-   },
-   {
-      "name":"Hunter x Hunter (2011)",
-      "description":"It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
-      "Rating":"9.11",
-      "episode":148,
-      "categorie":"Animation | Drama | Adventure",
-      "studio":"Madhouse",
-      "img":"https://myanimelist.cdn-dena.com/images/anime/11/33657.jpg"
    }
+   
 ]
