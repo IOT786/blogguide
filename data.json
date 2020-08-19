@@ -134,21 +134,7 @@ After some processing, Android Studio opens and displays a Hello World app with 
 
 Now take a moment to review the most important tiles. First, he sure that the Project window is open (select View > Tool Windows > Project) and the Android View is selected from the drop-down list at the top. 
 
-app > java > com.examplemyiirstapplication > MainActiVity.java 
-
-This file appears in Android Studio after the New Project Wizard finishes. It contains the class deiinition for the activity you created earlier. When you build and run the app, the Activity starts and loads the layout file that says Hello World! 
-
-app > res > layout > activity_main.xml 
-
-This XML tile deiines the layout of the activity and contains a TeXtVieW element with the text Hello world! . 
-
-app > manifests > AndroidManifest.xml 
-
-The manifest iile describes the fundamental characteristics of the app and delines each of its components. You’ll revisit this tile as you follow these lessons and add more components to your app. 
-
-Gradle Scripts > build.gradle 
-
-Android Studio uses Gradle to compile and build your app. 
+app > java. 
 
 
 
